@@ -1,1 +1,1 @@
-# JMU-metadev
+A repository for code developed for Metadata Strategies at James Madison University Libraries.
